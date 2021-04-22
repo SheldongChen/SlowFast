@@ -8,7 +8,7 @@
 - [torchvision](https://github.com/pytorch/vision/) that matches the PyTorch installation.
   You can install them together at [pytorch.org](https://pytorch.org) to make sure of this.
 - simplejson: `pip install simplejson`
-- GCC >= 4.9
+- GCC >= 4.9 and GCC <=8.0
 - PyAV: `conda install av -c conda-forge`
 - ffmpeg (4.0 is prefereed, will be installed along with PyAV)
 - PyYaml: (will be installed along with fvcore)
